@@ -11,9 +11,9 @@
 
 ## Description
 
-_This directory is a collection of my very first few attempts at creating webpages using HTML and CSS. All are written in English, and include features like ordered and unordered lists, anchor tags and hyperlinks to other webpages, and images taken from the internet.
+_This directory is a collection of my very first few attempts at creating webpages using HTML and CSS. All are written in English, and include features like ordered and unordered lists, anchor tags and hyperlinks to other webpages, and images taken from the internet._
 
-You can view these webpages by saving the repository to your device and opening the HTML files within the newly saved my-first-webpage directory._
+_You can view these webpages by saving the repository to your device and opening the HTML files within the newly saved my-first-webpage directory._
 
 ## Setup/Installation Requirements
 
